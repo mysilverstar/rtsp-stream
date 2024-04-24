@@ -19,7 +19,7 @@ import (
 	"github.com/Roverr/rtsp-stream/core/blacklist"
 	"github.com/Roverr/rtsp-stream/core/config"
 	"github.com/julienschmidt/httprouter"
-	"github.com/riltech/streamer"
+	"github.com/mysilverstar/streamer"
 	"github.com/sirupsen/logrus"
 )
 
